@@ -3,7 +3,7 @@
 [*← Back to Expeiments Index*](/Experiments/README.md)
 
 
-#  Experiment 06: Code Optimization - Making it Lean and Mean
+#  Experiment 06 : Code Optimization - Making it Lean and Mean
 
 We have reached the stage where our compiler is no longer just a translator; it is now an **Optimizer**. In the previous labs, we generated code that worked, but "working" isn't always good enough. In the real world, code needs to run at lightning speed. This experiment implements techniques that clean up redundant logic and replace heavy math with lighter alternatives.
 
