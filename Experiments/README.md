@@ -1,4 +1,4 @@
-[*← Back to Home Index*](../../)
+[*← Back to Home Index*](https://github.com/Gappyjosuke/Compiler-Design-University-Lab)
 
 # Laboratory Experiments Index
 
