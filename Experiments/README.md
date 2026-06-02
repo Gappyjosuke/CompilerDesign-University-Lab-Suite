@@ -1,4 +1,4 @@
-[*← Back to Home Index*](../)
+[*← Back to Home Index*](../../)
 
 # Laboratory Experiments Index
 
